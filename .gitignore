@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+build/
+
+# Firebase
+.firebase/
+.firebaserc
+!.firebaserc.example
+
+# AI Studio & editor artifacts
+.aistudio/
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Environment secrets
+.env*
+!.env.example
+*.local
+
+# Test coverage
+coverage/

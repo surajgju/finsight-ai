@@ -1,0 +1,8 @@
+{
+  "name": "FinSight AI",
+  "description": "AI-Powered Financial Intelligence Platform — Intelligence Behind Every Financial Decision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
